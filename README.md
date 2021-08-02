@@ -1,16 +1,11 @@
-# sandbox
+# TWICE What Is LOVE?
 
-A new Flutter project.
+Project to make a gallery about each member of TWICE inspired by [this](https://c-cl.cdn.smule.com/rs-s79/arr/dc/e7/3e774b9c-bc43-420b-9e56-7c846d3f1dff_1024.jpg) image.
 
-## Getting Started
+> Member photos theme : What Is LOVE? <br/>
+> Responsive : Desktop or Android. (vertical is prioritized)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### CREDITS
+> Credits for all photos and font in [bahan.dart](https://github.com/Dimas-Saputra-Me/Twice_What-is-love/blob/master/lib/bahan.dart)
+- All member photos taken from TWICE Official [twitter](https://twitter.com/jypetwice) account.
+- Font : "Vogue" taken from [dafont](https://www.dafont.com/vogue.font).
